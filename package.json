@@ -1,0 +1,18 @@
+{
+  "name": "cmu_coop_landmos",
+  "version": "1.0.0",
+  "description": "landmos for coop",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "landmos",
+    "mmm-coop"
+  ],
+  "author": "sakda homhuan",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
